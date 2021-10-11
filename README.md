@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AshwaniPandey2002
-- 👀 I’m interested in web development and competetive coding.
+- 👀 I’m interested in web development and competitive coding.
 - 🌱 I’m currently learning html,css,javascript.
 - 💞️ I’m looking to collaborate on different projects
 - 📫 How to reach me ashwani0602pandey@gmail.com
